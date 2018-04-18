@@ -1,1 +1,3 @@
-Test
+group: navigation
+
+# Test
