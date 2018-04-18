@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to CS205 Final Project by Group 2!
 
 You can use the [editor on GitHub](https://github.com/cyj1960/website_test.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
